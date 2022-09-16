@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asjad-Zaki
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on python
+- 🌱 I’m currently Pursuing graduation
+- 💞️ I’m looking to collaborate on </>
 - 📫 How to reach me ,Email -asjadzaki2021@gmail.com 
 
 <!---
