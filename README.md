@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asjad-Zaki
 - 👀 I’m a student pursuing BE-CSE @CAHCET.
 - 🌱 I’m an Aspiring Software Developer,
-- 💞️ Don't count your line of code,make your your lines of code count....
+- 💞️ Don't count your lines of code,make your lines of code count....
 E-mail-asjadzaki2021@gmail.com 
 
 <!---
