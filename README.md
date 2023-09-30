@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 <h1 align="center">Hi 👋, I'm Mohammed Asjad Zaki</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asjad-zaki&label=Profile%20views&color=0e75b6&style=flat" alt="asjad-zaki" /> </p>
 
