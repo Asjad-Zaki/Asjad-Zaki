@@ -1,39 +1,79 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
-<h1 align="center">Hi 👋, I'm Mohammed Asjad Zaki</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Asjad%20Zaki&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header" width="100%"/>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Asjad-Zaki&label=Profile%20Views&icon=2&pretty=false" />
-</a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asjad-zaki&label=Profile%20views&color=0e75b6&style=flat" alt="asjad-zaki" /> </p>
+# 👨‍💻 Mohammed Asjad Zaki
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on **python**
-
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Machine learning**
-
-- 🤝 I’m looking for help with **machine learning**
-- Portfolio:<a href="https://zakiprof.netlify.app"></a>
-
-- 📫 How to reach me **asjadzaki2021@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asjad-zaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asjad-zaki" height="30" width="40" /></a>
-<a href="https://kaggle.com/learn/python?rvi=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="learn/python?rvi=1" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_zak.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_zak.i" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asjadzaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asjadzaki" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Asjad-Zaki"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌟 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asjad-zaki&show_icons=true&locale=en&layout=compact" alt="asjad-zaki" /></p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asjad-zaki&show_icons=true&locale=en" alt="asjad-zaki" /></p>
+A passionate Software Developer from India with a strong foundation in building robust and scalable applications. I love turning complex problems into elegant solutions through clean, efficient code.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad-zaki&" alt="asjad-zaki" /></p>
+- 🔭 I'm currently working on **[Your Current Project]**
+- 🌱 I'm currently learning **[Technologies you're learning]**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **[Your expertise areas]**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: **[Something interesting about yourself]**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asjad-Zaki&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asjad-Zaki&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asjad-Zaki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asjad-Zaki&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asjad-Zaki&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asjad-Zaki&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</div>
+
